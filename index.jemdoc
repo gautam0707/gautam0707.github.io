@@ -13,13 +13,12 @@ Contact: [cs19resch11002@iith.ac.in Email], [https://www.linkedin.com/in/gowtham
 
 ~~~
 
-I am a third year Ph.D. student at Indian Institute of Technology Hyderabad.
-I am adivsed by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. I work on "Representation Learning for Caual Inference".
+I am a third year Ph.D. student at IIT Hyderabad. I am adivsed by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. I work on "Representation Learning for Caual Inference".
 == Research
-- \[05-2022 *ICML 2022*\] Our work titled "Matching Learned Causal Effects of Neural Networks with Domain Priors" is accepted at ICML 2022 [https://arxiv.org/abs/2111.12490 \[arxiv\]]
-- \[12-2021 *AAAI 2022*\] Our work titled "On Causally Disentangled Representations" is accepted at AAAI 2022 [https://arxiv.org/abs/2112.05746 \[arxiv\]]
-- \[05-2021 *Best Paper @ CiV-CVPR 2021* \] Our work titled "CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations" got Best Paper award at Causality in Vision Workshop at CVPR 2021 [http://www.causalityinvision.com/papers/0015.pdf \[pdf\]]
-
+- \[*ICML 2022*\] Abbavaram Gowtham Reddy\*, Kancheti Sai Srinivas\*, Vineeth N Balasubramanian, Amit Sharma. "Matching Learned Causal Effects of Neural Networks with Domain Priors" [https://arxiv.org/abs/2111.12490 \[arxiv\]] (*=equal authorship)
+- \[*AAAI 2022*\] Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. "On Causally Disentangled Representations" [https://arxiv.org/abs/2112.05746 \[arxiv\]]
+- \[*Best Paper @ CiV-CVPR 2021* \] Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. "CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations" [http://www.causalityinvision.com/papers/0015.pdf \[pdf\]]
+- \[*AIES  2021*\] Abbavaram Gowtham Reddy. Causality in Neural Networks - An Extended Abstract [https://doi.org/10.1145/3461702.3462467 \[doi\]]
 == Teaching
 - Mathematical Foundations of Machine Learning at BVRIT, Hyderabad as part of PMRF teaching activities during Jan 2022 - May 2022.
 - Mathematical Foundations of Machine Learning at PSG College of Technology, Coimbatore as part of PMRF teaching activities during Sep 2021 - Nov 2021.
