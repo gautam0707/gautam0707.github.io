@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{index.html}
+= Abbavaram Gowtham Reddy
+
+~~~
+{}{img_left}{websitepic.jpeg}{alt text}{244.8px}{244.8px}{}
+Abbavaram Gowtham Reddy \n
+Ph.D. Student ([https://www.pmrf.in/ Prime Minister Research Fellow] May 2020 - Present) \n
+[https://cse.iith.ac.in/ Department of Computer Science and Engineering] \n
+[https://iith.ac.in/ Indian Institute of Technology Hyderabad]  \n
+Research Interests: Causality, Neurosymbolic AI, Explainable AI \n
+Contact: [cs19resch11002@iith.ac.in Email], [https://www.linkedin.com/in/gowthamabbavaram/ Linkedin], [https://github.com/gautam0707 Github],
+[https://scholar.google.co.in/citations?user=Iewg-GAAAAAJ&hl=en \[Google Scholar Link\]] \n
+
+~~~
+
+I am a third year Ph.D. student at Indian Institute of Technology Hyderabad.
+I am adivsed by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. I work on "Representation Learning for Caual Inference".
+== Research
+- \[05-2022 *ICML 2022*\] Our work titled "Matching Learned Causal Effects of Neural Networks with Domain Priors" is accepted at ICML 2022 [https://arxiv.org/abs/2111.12490 \[arxiv\]]
+- \[12-2021 *AAAI 2022*\] Our work titled "On Causally Disentangled Representations" is accepted at AAAI 2022 [https://arxiv.org/abs/2112.05746 \[arxiv\]]
+- \[05-2021 *Best Paper @ CiV-CVPR 2021* \] Our work titled "CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations" got Best Paper award at Causality in Vision Workshop at CVPR 2021 [http://www.causalityinvision.com/papers/0015.pdf \[pdf\]]
+
+== Teaching
+- Mathematical Foundations of Machine Learning at BVRIT, Hyderabad as part of PMRF teaching activities during Jan 2022 - May 2022.
+- Mathematical Foundations of Machine Learning at PSG College of Technology, Coimbatore as part of PMRF teaching activities during Sep 2021 - Nov 2021.
+- Teaching Assistant (TA) for the course "Deep Learning for Computer Vision" offered by Dr. Vineeth N Balasubramanian as part of the National Programme on Technology Enhanced Learning (NPTEL) during July2020-Nov 2021.
+- Basics of Computer Science in SV College of Engineering, Tirupati as part of PMRF teaching activities during Dec2020-May2021.
+- Teaching Assistant (TA) for the course "Causal Inference and Learning" offered by Dr. Vineeth N Balasubramanian at IIT Hyderabad during Jan2021 - May 2021.
+- Teaching Assistant (TA) for the course "Deep Learning for Computer Vision" offered by Dr. Vineeth N Balasubramanian as part of the National Programme on Technology Enhanced Learning (NPTEL) during Sep2020-Dec 2020.
+== Education
+- PhD (9.38 CGPA), Department of CSE, Indian Institute of Technology Hyderabad, Telangana, India, Aug. 2019- Present
+- MTech, School of IT, JNTU Hyderabad. 2013-2015
+
+== Work Experience
+- Software Engineer, EPAM India, 2015-2018
+
+== Miscellaneous
+- Reviewer at ICML 2022, CVPR 2022, WACV 2022, ACML 2021
+- Sub-reviewer at  ICML 2022, ICLR 2022, NeurIPS 2021, CVPR 2021, NeurIPS 2020, ECCV 2020, BMVC 2020
+- Qualified  for Junior Research Fellowship (JRF) 2 times (2015 June,  2016 June) and  Assistant Professorship 3 times (2013 Dec,  2014 June,  2014 Dec) in National Eligibility Test (UGC-NET) conducted by University Grants Commission India.
+- Graduate Aptitude Test in Engineering (GATE) - 2012 - All India Rank 1543
