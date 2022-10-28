@@ -15,7 +15,8 @@ Contact: [cs19resch11002@iith.ac.in Email], [https://www.linkedin.com/in/gowtham
 
 I am a fourth year Ph.D. student at IIT Hyderabad. I am adivised by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. I work on "Representation Learning for Causal Inference". Currently I am a research intern at Microsoft Research Labs India working with [https://www.microsoft.com/en-us/research/people/amshar/ Dr. Amit Sharma]
 == Research
-- \[*ICML 2022*\] Abbavaram Gowtham Reddy\*, Kancheti Sai Srinivas\*, Vineeth N Balasubramanian, Amit Sharma. Matching Learned Causal Effects of Neural Networks with Domain Priors [https://proceedings.mlr.press/v162/kancheti22a.html \[paper\]] (*=equal authorship)
+- \[*CML4Impact workshop NeurIPS*\] Abbavaram Gowtham Reddy\*, Saloni Dash\*, Amit Sharma, Vineeth N Balasubramanian. Counterfactual Generation Under Confounding. Workshop on Causality for Real-world Impact at NeurIPS 2022. [https://arxiv.org/pdf/2210.12368.pdf \[arxiv\]] (*=equal contribution)
+- \[*ICML 2022*\] Abbavaram Gowtham Reddy\*, Kancheti Sai Srinivas\*, Vineeth N Balasubramanian, Amit Sharma. Matching Learned Causal Effects of Neural Networks with Domain Priors [https://proceedings.mlr.press/v162/kancheti22a.html \[paper\]] (*=equal contribution)
 - \[*AAAI 2022*\] Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. On Causally Disentangled Representations [https://doi.org/10.1609/aaai.v36i7.20781 \[doi\]]
 - \[*Best Paper Award @ CiV-CVPR 2021* \] Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations [http://www.causalityinvision.com/papers/0015.pdf \[pdf\]]
 - \[*AIES  2021*\] Abbavaram Gowtham Reddy. Causality in Neural Networks - An Extended Abstract [https://doi.org/10.1145/3461702.3462467 \[doi\]]
