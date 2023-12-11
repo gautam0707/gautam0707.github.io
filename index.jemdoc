@@ -8,34 +8,48 @@ Ph.D. Student ([https://www.pmrf.in/ Prime Minister Research Fellow from 2020 to
 [https://cse.iith.ac.in/ Department of Computer Science and Engineering] \n
 [https://iith.ac.in/ Indian Institute of Technology Hyderabad]  \n
 Research Interests: Causality, Neurosymbolic AI, Explainable AI \n
-Contact: [cs19resch11002@iith.ac.in Email], [https://www.linkedin.com/in/gowthamabbavaram/ Linkedin], [https://github.com/gautam0707 Github],
+Contact: [cs19resch11002@iith.ac.in Email], [https://drive.google.com/file/d/1N5s6hYMG_Y9rkaIaWrWVI3uCz4-9wyGV/view?usp=sharing CV], [https://www.linkedin.com/in/gowthamabbavaram/ Linkedin], [https://github.com/gautam0707 Github],
 [https://scholar.google.co.in/citations?user=Iewg-GAAAAAJ&hl=en Google Scholar] \n
 
 ~~~
 
-I am a final year Ph.D. student at IIT Hyderabad. I am adivised by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. I work on "Representation Learning for Causal Inference".
+I am a final year Ph.D. student at IIT Hyderabad. I am adivised by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. I work on the research problems at the intersection of Causality and AI.
 == Research
-- \[*CML4Impact-NeurIPS 2022*\] Abbavaram Gowtham Reddy\*, Saloni Dash\*, Amit Sharma, Vineeth N Balasubramanian. Counterfactual Generation Under Confounding. [https://arxiv.org/pdf/2210.12368.pdf \[arxiv\]] (*=equal contribution)
+- \[*AAAI 2024*\] Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar. Towards Learning and Explaining Indirect Causal Effects in Neural Networks. [https://arxiv.org/pdf/2303.13850.pdf \[arxiv\]]
+- \[*AAAI 2024*\] Abbavaram Gowtham Reddy, Vineeth N Balasubramanian. NESTER: An Adaptive Neurosymbolic Method for Causal Effect Estimation. [https://arxiv.org/pdf/2211.04370.pdf \[arxiv\]]
+- \[*CML4Impact-NeurIPS 2022*\] Abbavaram Gowtham Reddy\*, Saloni Dash\*, Amit Sharma, Vineeth N Balasubramanian. Counterfactual Generation Under Confounding. [https://openreview.net/forum?id=JyBdgHT-KH_ \[paper link\]] (*=equal contribution)
 - \[*ICML 2022*\] Abbavaram Gowtham Reddy\*, Kancheti Sai Srinivas\*, Vineeth N Balasubramanian, Amit Sharma. Matching Learned Causal Effects of Neural Networks with Domain Priors [https://proceedings.mlr.press/v162/kancheti22a.html \[paper\]] (*=equal contribution)
 - \[*AAAI 2022*\] Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. On Causally Disentangled Representations [https://doi.org/10.1609/aaai.v36i7.20781 \[doi\]]
 - \[*Best Paper Award @ CiV-CVPR 2021* \] Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations. [http://www.causalityinvision.com/papers/0015.pdf \[pdf\]]
 - \[*AIES  2021*\] Abbavaram Gowtham Reddy. Causality in Neural Networks - An Extended Abstract [https://doi.org/10.1145/3461702.3462467 \[doi\]]
+
+== Research Services
+- Student volunteer at Asian Conference on Machine Learning, Hyderabad, 2022
+- Reviewer at AAAI 2024, AAAI 2023, ICML 2022, CVPR 2022, WACV 2022, ACML 2021
+- Sub-reviewer at  AISTATS 2024, ICML 2022, ICLR 2022, NeurIPS 2021, CVPR 2021, NeurIPS 2020, ECCV 2020, BMVC 2020
+
+== Research Forums Attended
+- Amazon Research Days, Bengaluru, 2023.
+- Google Research Week, Bengaluru, 2022.
+- Amazon Research Days, Bengaluru, 2022.
+
 == Teaching
+- Teaching Assistant (TA) for the course "Introduction to Programming" offered by Dr. Vineeth N Balasubramanian at IIT Hyderabad during Aug 2023 - Dec 2023.
 - Mathematical Foundations of Machine Learning at BVRIT, Hyderabad as part of PMRF teaching activities during Jan 2022 - May 2022.
 - Mathematical Foundations of Machine Learning at PSG College of Technology, Coimbatore as part of PMRF teaching activities during Sep 2021 - Nov 2021.
 - Teaching Assistant (TA) for the course "Deep Learning for Computer Vision" offered by Dr. Vineeth N Balasubramanian as part of the National Programme on Technology Enhanced Learning (NPTEL) during July2020-Nov 2021.
 - Basics of Computer Science in SV College of Engineering, Tirupati as part of PMRF teaching activities during Dec2020-May2021.
-- Teaching Assistant (TA) for the course "Causal Inference and Learning" offered by Dr. Vineeth N Balasubramanian at IIT Hyderabad during Jan2021 - May 2021.
+- Teaching Assistant (TA) for the course "Causal Inference and Learning" offered by Dr. Vineeth N Balasubramanian at IIT Hyderabad during Jan 2021 - May 2021.
 - Teaching Assistant (TA) for the course "Deep Learning for Computer Vision" offered by Dr. Vineeth N Balasubramanian as part of the National Programme on Technology Enhanced Learning (NPTEL) during Sep2020-Dec 2020.
 == Education
 - PhD (9.38 CGPA), Department of CSE, Indian Institute of Technology Hyderabad, Telangana, India, Aug. 2019- Present
 - MTech, School of IT, JNTU Hyderabad. 2013-2015
 
 == Work Experience
-- Software Engineer, EPAM India, 2015-2018
+- Research Intern, Microsoft Research India, 07-2022 to 10-2022
+- Software Engineer, EPAM India, 09-2015 to 07-2018
 
-== Miscellaneous
-- Reviewer at AAAI 2023, ICML 2022, CVPR 2022, WACV 2022, ACML 2021
-- Sub-reviewer at  ICML 2022, ICLR 2022, NeurIPS 2021, CVPR 2021, NeurIPS 2020, ECCV 2020, BMVC 2020
+== Awards and Recognitions
+- Research Excellence Award from IIT Hyderabad for the academic year 2022 - 2023
 - Qualified  for Junior Research Fellowship (JRF) 2 times (2015 June,  2016 June) and  Assistant Professorship 3 times (2013 Dec,  2014 June,  2014 Dec) in National Eligibility Test (UGC-NET) conducted by University Grants Commission India.
 - Graduate Aptitude Test in Engineering (GATE) - 2012 - All India Rank 1543
