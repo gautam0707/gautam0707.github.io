@@ -8,19 +8,20 @@ Ph.D. Student ([https://www.pmrf.in/ Prime Minister Research Fellow from 2020 to
 [https://cse.iith.ac.in/ Department of Computer Science and Engineering] \n
 [https://iith.ac.in/ Indian Institute of Technology Hyderabad]  \n
 Research Interests: Causality, Neurosymbolic AI, Explainable AI \n
-Contact: [cs19resch11002@iith.ac.in Email], [https://drive.google.com/file/d/1N5s6hYMG_Y9rkaIaWrWVI3uCz4-9wyGV/view?usp=sharing CV], [https://www.linkedin.com/in/gowthamabbavaram/ Linkedin], [https://github.com/gautam0707 Github],
+Contact: [cs19resch11002@iith.ac.in Email], [https://drive.google.com/file/d/14B6-TdWtGGBDSA5r_diO2e9GJvzCN8fh/view?usp=sharing CV], [https://www.linkedin.com/in/gowthamabbavaram/ Linkedin], [https://github.com/gautam0707 Github],
 [https://scholar.google.co.in/citations?user=Iewg-GAAAAAJ&hl=en Google Scholar] \n
 
 ~~~
 
-I am a final year Ph.D. student at IIT Hyderabad. I am adivised by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. I work on the research problems at the intersection of Causality and AI.
+I am a final year Ph.D. student at IIT Hyderabad. I am advised by [https://www.iith.ac.in/~vineethnb/ Prof. Vineeth N Balasubramanian]. I work on the research problems at the intersection of Causality and AI.
 == Research Publications
 - {{<font color=blue>}}\[*AAAI 2024*\]{{</font>}} *Abbavaram Gowtham Reddy*, Saketh Bachu, Harsharaj Pathak, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar. Towards Learning and Explaining Indirect Causal Effects in Neural Networks. [https://arxiv.org/pdf/2303.13850.pdf \[arxiv\]]
 - {{<font color=blue>}}\[*AAAI 2024*\]{{</font>}} *Abbavaram Gowtham Reddy*, Vineeth N Balasubramanian. NESTER: An Adaptive Neurosymbolic Method for Causal Effect Estimation. [https://arxiv.org/pdf/2211.04370.pdf \[arxiv\]]
-- \[*CML4Impact Workshop - NeurIPS 2022*\] *Abbavaram Gowtham Reddy*\*, Saloni Dash\*, Amit Sharma, Vineeth N Balasubramanian. Counterfactual Generation Under Confounding. [https://openreview.net/forum?id=JyBdgHT-KH_ \[paper link\]] (*=equal contribution)
+- \[*Are Large Language Models Simply Causal Parrots? - AAAI 2024 Workshop*\] Aniket Vashishtha, *Abbavaram Gowtham Reddy*, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma, Causal Inference using LLM-Guided Discovery. [https://openreview.net/forum?id=4B296hrTIS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FWorkshop%2FLLM-CP%2FAuthors%23your-submissions) \[Openreview\]]
+- \[*CML4Impact - NeurIPS 2022 Workshop*\] *Abbavaram Gowtham Reddy*\*, Saloni Dash\*, Amit Sharma, Vineeth N Balasubramanian. Counterfactual Generation Under Confounding. [https://openreview.net/forum?id=JyBdgHT-KH_ \[paper link\]] (*=equal contribution)
 - {{<font color=blue>}}\[*ICML 2022*\]{{</font>}} *Abbavaram Gowtham Reddy*\*, Kancheti Sai Srinivas\*, Vineeth N Balasubramanian, Amit Sharma. Matching Learned Causal Effects of Neural Networks with Domain Priors [https://proceedings.mlr.press/v162/kancheti22a.html \[paper\]] (*=equal contribution)
 - {{<font color=blue>}}\[*AAAI 2022*\]{{</font>}} *Abbavaram Gowtham Reddy*, Benin Godfrey L, Vineeth N Balasubramanian. On Causally Disentangled Representations [https://doi.org/10.1609/aaai.v36i7.20781 \[doi\]]
-- \[*{{<font color=purple>}}Best Paper Award {{</font>}} @ Causality in Vision Workshop - CVPR 2021* \] *Abbavaram Gowtham Reddy*, Benin Godfrey L, Vineeth N Balasubramanian. CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations. [http://www.causalityinvision.com/papers/0015.pdf \[pdf\]]
+- \[*{{<font color=purple>}}Best Paper Award {{</font>}} @ Causality in Vision - CVPR 2021 Workshop* \] *Abbavaram Gowtham Reddy*, Benin Godfrey L, Vineeth N Balasubramanian. CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations. [http://www.causalityinvision.com/papers/0015.pdf \[pdf\]]
 - \[*AIES  2021*\] *Abbavaram Gowtham Reddy*. Causality in Neural Networks - An Extended Abstract [https://doi.org/10.1145/3461702.3462467 \[doi\]]
 
 == Research Services
