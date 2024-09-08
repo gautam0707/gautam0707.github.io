@@ -2,13 +2,19 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
     {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}" style="text-decoration: none;">{{ item.name }}</a></p>
-      {% endfor %}
-    {% else %}
+    <ul>
       {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}" style="text-decoration: none;">{{ item.name }}</a></p>
+        <li><a href="{{ item.url }}" style="text-decoration: none;">{{ item.name }}</a></li>
       {% endfor %}
+    </ul>
+    
+    {% else %}
+    <ul>
+      {% for item in site.data.publications.index %}
+        <li><a href="{{ item.url }}" style="text-decoration: none;">{{ item.name }}</a></li>
+      {% endfor %}
+    </ul>
+    
     {% endif %}
   </div>
 </div>
