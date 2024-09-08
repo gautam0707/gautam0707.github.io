@@ -1,6 +1,6 @@
-# academic
+# Abbavaram Gowtham Reddy
 
-### A Jekyll theme for academia
+### Researcher
 
 ![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
 
