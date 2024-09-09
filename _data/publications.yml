@@ -1,10 +1,10 @@
 index:
-- {venue: 'AAAI', 
+- {venue: 'AAAI Conference on Artificial Intelligence', 
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Saketh, Harsharaj, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar",
   title: 'Towards Learning and Explaining Indirect Causal Effects in Neural Networks',
   url: 'https://arxiv.org/pdf/2303.13850.pdf'}
-- {venue: 'AAAI',
+- {venue: 'AAAI Conference on Artificial Intelligence',
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'NESTER: An Adaptive Neurosymbolic Method for Causal Effect Estimation',
@@ -20,17 +20,17 @@ index:
   title: 'Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?',
   url: 'https://arxiv.org/pdf/2405.07921'}
 - {venue: 'Preprint', 
-  year: '2024',
+  year: '',
   authors: "Aniket Vashishtha, Abhinav Kumar, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian, Amit Sharma",
   title: 'Teaching Transformers Causal Reasoning through Axiomatic Training',
   url: 'https://arxiv.org/pdf/2407.07612'}
 - {venue: 'Preprint', 
-  year: '2024',
+  year: '',
   authors: "Ziheng Chen, Jia Wang, Jun Zhuang, Abbavaram Gowtham Reddy, Fabrizio Silvestri, Jin Huang, Kaushiki Nag, kun Kuang, Xin Ning, Gabriele Tolomei",
   title: 'Debiasing Machine Unlearning with Counterfactual Examples',
   url: 'https://arxiv.org/pdf/2404.15760'}
 - {venue: 'Preprint', 
-  year: '2024',
+  year: '',
   authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'Detecting and Measuring Confounding Using Causal Mechanism Shifts',
   url: ''}
@@ -39,12 +39,12 @@ index:
   authors: "Abbavaram Gowtham Reddy*, Saloni Dash*, Amit Sharma, Vineeth N Balasubramanian",
   title: 'Counterfactual Generation Under Confounding',
   url: 'https://openreview.net/forum?id=JyBdgHT-KH_'}
-- {venue: "ICML",
+- {venue: "International Conference on Machine Learning",
   year: "2022",
   authors: "Abbavaram Gowtham Reddy*, Kancheti Sai Srinivas*, Vineeth N Balasubramanian, Amit Sharma",
   title: 'Matching Learned Causal Effects of Neural Networks with Domain Priors',
    url: 'https://proceedings.mlr.press/v162/kancheti22a.html'}
-- {venue: "AAAI",
+- {venue: "AAAI Conference on Artificial Intelligence",
   year: "2022",
   authors: "Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian",
   title: 'On Causally Disentangled Representations',
