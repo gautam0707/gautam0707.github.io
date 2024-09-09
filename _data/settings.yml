@@ -16,7 +16,7 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'ai-google-scholar', link: 'https://scholar.google.com/citations?user=Iewg-GAAAAAJ&hl=en'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=Iewg-GAAAAAJ&hl=en'}
 - {icon: 'github', link: 'https://github.com/gautam0707'}
 - {icon: 'twitter', link: 'https://twitter.com/abbavaram_reddy'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/gowthamabbavaram'}
