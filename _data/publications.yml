@@ -1,19 +1,61 @@
-featured:
-- {name: 'Towards Learning and Explaining Indirect Causal Effects in Neural Networks. Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar. AAAI 2024', url: 'https://arxiv.org/pdf/2303.13850.pdf'}
-- {name: 'NESTER: An Adaptive Neurosymbolic Method for Causal Effect Estimation. Abbavaram Gowtham Reddy, Vineeth N Balasubramanian. AAAI 2024', url: 'https://arxiv.org/pdf/2211.04370.pdf'}
-- {name: 'Are Large Language Models Simply Causal Parrots? - AAAI 2024 Workshop. Aniket Vashishtha, Abbavaram Gowtham Reddy, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma, Causal Inference using LLM-Guided Discovery.', url: 'https://openreview.net/forum?id=4B296hrTIS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FWorkshop%2FLLM-CP%2FAuthors%23your-submissions'}
-- {name: 'Counterfactual Generation Under Confounding. Abbavaram Gowtham Reddy*, Saloni Dash*, Amit Sharma, Vineeth N Balasubramanian. CML4Impact - NeurIPS 2022 Workshop', url: 'https://openreview.net/forum?id=JyBdgHT-KH_'}
-- {name: 'Matching Learned Causal Effects of Neural Networks with Domain Priors. Abbavaram Gowtham Reddy*, Kancheti Sai Srinivas*, Vineeth N Balasubramanian, Amit Sharma. ICML 2022', url: 'https://proceedings.mlr.press/v162/kancheti22a.html'}
-- {name: 'On Causally Disentangled Representations. Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. AAAI 2022', url: 'https://doi.org/10.1609/aaai.v36i7.20781'}
-- {name: 'CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations. Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. Best Paper Award @ Causality in Vision - CVPR 2021 Workshop', url: 'https://github.com/gautam0707/candle-simulator'}
-- {name: 'Causality in Neural Networks - An Extended Abstract. Abbavaram Gowtham Reddy. AIES 2021', url: 'https://doi.org/10.1145/3461702.3462467'}
-
 index:
-- {name: 'Towards Learning and Explaining Indirect Causal Effects in Neural Networks. Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar. AAAI 2024', url: 'https://arxiv.org/pdf/2303.13850.pdf'}
-- {name: 'NESTER: An Adaptive Neurosymbolic Method for Causal Effect Estimation. Abbavaram Gowtham Reddy, Vineeth N Balasubramanian. AAAI 2024', url: 'https://arxiv.org/pdf/2211.04370.pdf'}
-- {name: 'Are Large Language Models Simply Causal Parrots? - AAAI 2024 Workshop. Aniket Vashishtha, Abbavaram Gowtham Reddy, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma, Causal Inference using LLM-Guided Discovery.', url: 'https://openreview.net/forum?id=4B296hrTIS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FWorkshop%2FLLM-CP%2FAuthors%23your-submissions'}
-- {name: 'Counterfactual Generation Under Confounding. Abbavaram Gowtham Reddy*, Saloni Dash*, Amit Sharma, Vineeth N Balasubramanian. CML4Impact - NeurIPS 2022 Workshop', url: 'https://openreview.net/forum?id=JyBdgHT-KH_'}
-- {name: 'Matching Learned Causal Effects of Neural Networks with Domain Priors. Abbavaram Gowtham Reddy*, Kancheti Sai Srinivas*, Vineeth N Balasubramanian, Amit Sharma. ICML 2022', url: 'https://proceedings.mlr.press/v162/kancheti22a.html'}
-- {name: 'On Causally Disentangled Representations. Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. AAAI 2022', url: 'https://doi.org/10.1609/aaai.v36i7.20781'}
-- {name: 'CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations. Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian. Best Paper Award @ Causality in Vision - CVPR 2021 Workshop', url: 'https://github.com/gautam0707/candle-simulator'}
-- {name: 'Causality in Neural Networks - An Extended Abstract. Abbavaram Gowtham Reddy. AIES 2021', url: 'https://doi.org/10.1145/3461702.3462467'}
+- {venue: 'AAAI', 
+  year: '2024',
+  authors: "Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar",
+  title: 'Towards Learning and Explaining Indirect Causal Effects in Neural Networks',
+  url: 'https://arxiv.org/pdf/2303.13850.pdf'}
+- {venue: 'AAAI',
+  year: '2024',
+  authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
+  title: 'NESTER: An Adaptive Neurosymbolic Method for Causal Effect Estimation',
+  url: 'https://arxiv.org/pdf/2211.04370.pdf'}
+- {venue: 'AAAI Workshop on Are Large Language Models Simply Causal Parrots?',
+ year: '2024', 
+ authors: "Aniket Vashishtha, Abbavaram Gowtham Reddy, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma",
+ title: ', Causal Inference using LLM-Guided Discovery',
+ url: 'https://openreview.net/forum?id=4B296hrTIS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FWorkshop%2FLLM-CP%2FAuthors%23your-submissions'}
+- {venue: 'CVPR Workshop on What is Next in Multimodal Foundation Models', 
+  year: '2024',
+  authors: "Hari Chandana Kuchibhotla, Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
+  title: 'Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?',
+  url: 'https://arxiv.org/pdf/2405.07921'}
+- {venue: 'Preprint', 
+  year: '2024',
+  authors: "Aniket Vashishtha, Abhinav Kumar, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian, Amit Sharma",
+  title: 'Teaching Transformers Causal Reasoning through Axiomatic Training',
+  url: 'https://arxiv.org/pdf/2407.07612'}
+- {venue: 'Preprint', 
+  year: '2024',
+  authors: "Ziheng Chen, Jia Wang, Jun Zhuang, Abbavaram Gowtham Reddy, Fabrizio Silvestri, Jin Huang, Kaushiki Nag, kun Kuang, Xin Ning, Gabriele Tolomei",
+  title: 'Debiasing Machine Unlearning with Counterfactual Examples',
+  url: 'https://arxiv.org/pdf/2404.15760'}
+- {venue: 'Preprint', 
+  year: '2024',
+  authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
+  title: 'Detecting and Measuring Confounding Using Causal Mechanism Shifts',
+  url: ''}
+- {venue: "NeurIPS Workshop on Causal ML for Realworld Impact",
+  year: "2022",
+  authors: "Abbavaram Gowtham Reddy*, Saloni Dash*, Amit Sharma, Vineeth N Balasubramanian",
+  title: 'Counterfactual Generation Under Confounding',
+  url: 'https://openreview.net/forum?id=JyBdgHT-KH_'}
+- {venue: "ICML",
+  year: "2022",
+  authors: "Abbavaram Gowtham Reddy*, Kancheti Sai Srinivas*, Vineeth N Balasubramanian, Amit Sharma",
+  title: 'Matching Learned Causal Effects of Neural Networks with Domain Priors',
+   url: 'https://proceedings.mlr.press/v162/kancheti22a.html'}
+- {venue: "AAAI",
+  year: "2022",
+  authors: "Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian",
+  title: 'On Causally Disentangled Representations',
+  url: 'https://doi.org/10.1609/aaai.v36i7.20781'}
+- {venue: "(Best Paper Award Winner) CVPR Workshop on Causality in Vision",
+  year: "2021",
+  authors: "Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian",
+  title: 'CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations', 
+  url: 'https://github.com/gautam0707/candle-simulator'}
+- {venue: "AAAI/ACM Conference on AI, Ethics, and Society",
+  year: "2021",
+  authors: "Abbavaram Gowtham Reddy",
+  title: 'Causality in Neural Networks - An Extended Abstract',
+   url: 'https://doi.org/10.1145/3461702.3462467'}
