@@ -16,10 +16,10 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'book fa-fw', link: 'https://scholar.google.com/citations?user=Iewg-GAAAAAJ&hl=en'}
-- {icon: 'github', link: 'https://github.com/gautam0707'}
-- {icon: 'twitter', link: 'https://twitter.com/abbavaram_reddy'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/gowthamabbavaram'}
+- {icon: 'fa fa-graduation-cap', link: 'https://scholar.google.com/citations?user=Iewg-GAAAAAJ&hl=en'}
+- {icon: 'fab fa-github', link: 'https://github.com/gautam0707'}
+- {icon: 'fab fa-twitter', link: 'https://twitter.com/abbavaram_reddy'}
+- {icon: 'fab fa-linkedin', link: 'https://linkedin.com/in/gowthamabbavaram'}
 
 contacts:
 - {name: 'Abbavaram Gowtham Reddy', department: 'Department of Computer Science and Engineering', institution: 'Indian Institute of Technology Hyderabad', institution_address: 'Kandi, Sangareddy', phone: '+91 9491 450 454', email: 'cs19resch11002@iith.ac.in'}
