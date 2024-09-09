@@ -19,7 +19,7 @@ social:
 - {icon: 'github', link: 'https://github.com/gautam0707'}
 - {icon: 'twitter', link: 'https://twitter.com/abbavaram_reddy'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/gowthamabbavaram'}
-- {icon: 'book', link: 'https://scholar.google.com/citations?user=Iewg-GAAAAAJ&hl=en'}
+- {icon: 'ai-google-scholar', link: 'https://scholar.google.com/citations?user=Iewg-GAAAAAJ&hl=en'}
 
 contacts:
 - {name: 'Abbavaram Gowtham Reddy', department: 'Department of Computer Science and Engineering', institution: 'Indian Institute of Technology Hyderabad', institution_address: 'Kandi, Sangareddy', phone: '+91 9491 450 454', email: 'cs19resch11002@iith.ac.in'}
