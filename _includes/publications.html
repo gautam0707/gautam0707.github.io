@@ -3,9 +3,9 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
     <ul>
       {% for item in site.data.publications.index %}
-        <li><a href="{{ item.url }}" style="text-decoration: none;color: rgb(100, 100, 200) !important; font-weight: bold;">{{ item.title }}</a></br>
+        <li><a href="{{ item.url }}" style="text-decoration: none;color: rgb(52, 30, 189) !important; font-weight: bold;">{{ item.title }}</a></br>
           <span style="color: rgb(125, 125, 200);">{{item.authors}}</span></br>
-          <span style="font-style: italic; color: rgb(150, 150, 200); font-weight: bold;"> {{item.venue}}-{{item.year}}</span></br>
+          <span style="font-style: italic;"> {{item.venue}}-{{item.year}}</span></br>
         </li>
       {% endfor %}
     </ul>
