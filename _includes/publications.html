@@ -4,8 +4,8 @@
     <ul>
       {% for item in site.data.publications.index %}
         <li><a href="{{ item.url }}" style="text-decoration: none;color: rgb(42, 122, 226) !important; font-weight: bold;">{{ item.title }}</a></br>
-          <span style="color: rgb(42, 122, 226);">{{item.authors}}</span></br>
-          <span style="font-style: italic;"> {{item.venue}}-{{item.year}}</span></br>
+          <span style="color: rgb(42, 122, 226); font-size: 12px;">{{item.authors}}</span></br>
+          <span style="font-style: italic; font-size: 12px;"> {{item.venue}}-{{item.year}}</span></br>
         </li>
       {% endfor %}
     </ul>
