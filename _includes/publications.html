@@ -3,7 +3,7 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
     <ul>
       {% for item in site.data.publications.index %}
-        <li><a href="{{ item.url }}" style="text-decoration: none;">{{ item.title }}</a></br>
+        <li><a href="{{ item.url }}" style="text-decoration: none;color: blue; font-weight: bold;">{{ item.title }}</a></br>
           {{item.authors}}</br>
           {{item.venue}}-{{item.year}}</br>
         </li>
