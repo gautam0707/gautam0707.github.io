@@ -1,4 +1,9 @@
 index:
+- {venue: 'Neural Information Processing Systems', 
+  year: '2024',
+  authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
+  title: 'Detecting and Measuring Confounding Using Causal Mechanism Shifts',
+  url: ''}
 - {venue: 'AAAI Conference on Artificial Intelligence', 
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar",
@@ -29,11 +34,6 @@ index:
   authors: "Ziheng Chen, Jia Wang, Jun Zhuang, Abbavaram Gowtham Reddy, Fabrizio Silvestri, Jin Huang, Kaushiki Nag, kun Kuang, Xin Ning, Gabriele Tolomei",
   title: 'Debiasing Machine Unlearning with Counterfactual Examples',
   url: 'https://arxiv.org/pdf/2404.15760'}
-- {venue: 'Preprint', 
-  year: '',
-  authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
-  title: 'Detecting and Measuring Confounding Using Causal Mechanism Shifts',
-  url: ''}
 - {venue: "NeurIPS Workshop on Causal ML for Realworld Impact",
   year: "2022",
   authors: "Abbavaram Gowtham Reddy*, Saloni Dash*, Amit Sharma, Vineeth N Balasubramanian",
