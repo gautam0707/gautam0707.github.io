@@ -1,5 +1,5 @@
 index:
-- {venue: 'Advances in Neural Information Processing Systems', 
+- {venue: 'Conference on Neural Information Processing Systems', 
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'Detecting and Measuring Confounding Using Causal Mechanism Shifts',
