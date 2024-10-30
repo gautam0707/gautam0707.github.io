@@ -35,7 +35,7 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.awards_and_fellowships %}
-          <p class="fw-bold">{{ section.title }} {{ section.description }}</p>
+          <p> <strong>{{ section.title }}</strong> {{ section.description }}</p>
         {% endfor %}
       </div>
     </div>
@@ -45,7 +45,7 @@ layout: default
       </div>
       <div class="col-md-10">
         {% for section in site.data.cv.research_forums %}
-          <p class="fw-bold">{{ section.title }} {{ section.description }}</p>
+          <p><strong>{{ section.title }}</strong> {{ section.description }}</p>
           <p></p>
         {% endfor %}
       </div>
