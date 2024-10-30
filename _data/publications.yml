@@ -1,7 +1,7 @@
 index:
 - {venue: 'NeurIPS Workshop on Adaptive Foundation Models', 
   year: '2024',
-  authors: "Hari Chandana Kuchibhotla, Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
+  authors: "Hari Chandana Kuchibhotla, Abbavaram Gowtham Reddy, Sai Srinivas Kancheti, Vineeth N Balasubramanian",
   title: 'Fine-Grained Visual Recognition in the Age of Multimodal LLMs',
   url: 'https://openreview.net/pdf?id=iLZphHYeBK'}
 - {venue: 'Conference on Neural Information Processing Systems', 
