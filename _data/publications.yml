@@ -4,22 +4,22 @@ index:
   authors: "Hari Chandana Kuchibhotla, Abbavaram Gowtham Reddy, Sai Srinivas Kancheti, Vineeth N Balasubramanian",
   title: 'Fine-Grained Visual Recognition in the Age of Multimodal LLMs',
   url: 'https://openreview.net/pdf?id=iLZphHYeBK'}
-- {venue: 'Conference on Neural Information Processing Systems', 
+- {venue: 'NeurIPS', 
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'Detecting and Measuring Confounding Using Causal Mechanism Shifts',
   url: 'https://arxiv.org/pdf/2409.17840'}
-- {venue: 'AAAI Conference on Artificial Intelligence', 
+- {venue: 'AAAI', 
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar",
   title: 'Towards Learning and Explaining Indirect Causal Effects in Neural Networks',
   url: 'https://arxiv.org/pdf/2303.13850.pdf'}
-- {venue: 'AAAI Conference on Artificial Intelligence',
+- {venue: 'AAAI',
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'NESTER: An Adaptive Neurosymbolic Method for Causal Effect Estimation',
   url: 'https://arxiv.org/pdf/2211.04370.pdf'}
-- {venue: 'AAAI Workshop on Are Large Language Models Simply Causal Parrots?',
+- {venue: 'AAAI Workshop on Are Large Language Models Simply Causal Parrots?, NeurIPS workshop on Causality and Large Models',
  year: '2024', 
  authors: "Aniket Vashishtha, Abbavaram Gowtham Reddy, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma",
  title: 'Causal Inference using LLM-Guided Discovery',
@@ -29,8 +29,8 @@ index:
   authors: "Hari Chandana Kuchibhotla, Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?',
   url: 'https://arxiv.org/pdf/2405.07921'}
-- {venue: 'Preprint', 
-  year: '',
+- {venue: 'NeurIPS workshop on Causality and Large Models, ICML workshop on LLMs and Cognition', 
+  year: '2024',
   authors: "Aniket Vashishtha, Abhinav Kumar, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian, Amit Sharma",
   title: 'Teaching Transformers Causal Reasoning through Axiomatic Training',
   url: 'https://arxiv.org/pdf/2407.07612'}
@@ -44,12 +44,12 @@ index:
   authors: "Abbavaram Gowtham Reddy*, Saloni Dash*, Amit Sharma, Vineeth N Balasubramanian",
   title: 'Counterfactual Generation Under Confounding',
   url: 'https://openreview.net/forum?id=JyBdgHT-KH_'}
-- {venue: "International Conference on Machine Learning",
+- {venue: "ICML",
   year: "2022",
   authors: "Abbavaram Gowtham Reddy*, Kancheti Sai Srinivas*, Vineeth N Balasubramanian, Amit Sharma",
   title: 'Matching Learned Causal Effects of Neural Networks with Domain Priors',
    url: 'https://proceedings.mlr.press/v162/kancheti22a.html'}
-- {venue: "AAAI Conference on Artificial Intelligence",
+- {venue: "AAAI",
   year: "2022",
   authors: "Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian",
   title: 'On Causally Disentangled Representations',
