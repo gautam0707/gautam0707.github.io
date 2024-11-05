@@ -24,7 +24,7 @@ index:
  authors: "Aniket Vashishtha, Abbavaram Gowtham Reddy, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma",
  title: 'Causal Inference using LLM-Guided Discovery',
  url: 'https://openreview.net/forum?id=4B296hrTIS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FWorkshop%2FLLM-CP%2FAuthors%23your-submissions'}
-- {venue: 'TMLR 2024', 
+- {venue: 'TMLR', 
   year: '2024',
   authors: "Hari Chandana Kuchibhotla, Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'Semantic Alignment for Prompt-Tuning in Vision Language Models',
