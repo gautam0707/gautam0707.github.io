@@ -4,16 +4,16 @@ index:
   authors: "Hari Chandana Kuchibhotla, Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'Semantic Alignment for Prompt-Tuning in Vision Language Models',
   url: 'https://openreview.net/pdf?id=avDr56QjSI'}
-- {venue: 'NeurIPS Workshop on Adaptive Foundation Models', 
-  year: '2024',
-  authors: "Hari Chandana Kuchibhotla, Abbavaram Gowtham Reddy, Sai Srinivas Kancheti, Vineeth N Balasubramanian",
-  title: 'Fine-Grained Visual Recognition in the Age of Multimodal LLMs',
-  url: 'https://openreview.net/pdf?id=iLZphHYeBK'}
 - {venue: 'NeurIPS', 
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'Detecting and Measuring Confounding Using Causal Mechanism Shifts',
   url: 'https://arxiv.org/pdf/2409.17840'}
+- {venue: 'NeurIPS Workshop on Adaptive Foundation Models', 
+  year: '2024',
+  authors: "Hari Chandana Kuchibhotla, Abbavaram Gowtham Reddy, Sai Srinivas Kancheti, Vineeth N Balasubramanian",
+  title: 'Fine-Grained Visual Recognition in the Age of Multimodal LLMs',
+  url: 'https://openreview.net/pdf?id=iLZphHYeBK'}
 - {venue: 'AAAI', 
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar",
@@ -59,7 +59,7 @@ index:
   authors: "Abbavaram Gowtham Reddy, Benin Godfrey L, Vineeth N Balasubramanian",
   title: 'CANDLE: An Image Dataset for Causal Analysis in Disentangled Representations', 
   url: 'https://github.com/gautam0707/candle-simulator',
-  notes: 'Best Paper Award Winner'
+  notes: '(Best Paper Award Winner)'
   }
 - {venue: "AAAI/ACM Conference on AI, Ethics, and Society",
   year: "2021",
