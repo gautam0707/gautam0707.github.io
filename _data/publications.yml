@@ -1,4 +1,9 @@
 index:
+- {venue: 'ICLR', 
+  year: '2025',
+  authors: "Aniket Vashishtha, Abbavaram Gowtham Reddy, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma",
+  title: 'Causal Order: The Key to Leveraging Imperfect Experts in Causal Inference',
+  url: 'https://openreview.net/pdf?id=9juyeCqL0u'}
 - {venue: 'TMLR', 
   year: '2024',
   authors: "Hari Chandana Kuchibhotla, Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
