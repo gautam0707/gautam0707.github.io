@@ -1,4 +1,9 @@
 index:
+- {venue: 'ICML', 
+  year: '2025',
+  authors: "Aniket Vashishtha, Abhinav Kumar, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian, Amit Sharma",
+  title: 'Teaching Transformers Causal Reasoning through Axiomatic Training',
+  url: 'https://arxiv.org/pdf/2407.07612'}
 - {venue: 'ICLR', 
   year: '2025',
   authors: "Aniket Vashishtha, Abbavaram Gowtham Reddy, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma",
@@ -34,11 +39,6 @@ index:
  authors: "Aniket Vashishtha, Abbavaram Gowtham Reddy, Abhinav Kumar, Saketh Bachu, Vineeth N. Balasubramanian, Amit Sharma",
  title: 'Causal Inference using LLM-Guided Discovery',
  url: 'https://openreview.net/forum?id=4B296hrTIS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FWorkshop%2FLLM-CP%2FAuthors%23your-submissions'}
-- {venue: 'NeurIPS workshop on Causality and Large Models, ICML workshop on LLMs and Cognition', 
-  year: '2024',
-  authors: "Aniket Vashishtha, Abhinav Kumar, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian, Amit Sharma",
-  title: 'Teaching Transformers Causal Reasoning through Axiomatic Training',
-  url: 'https://arxiv.org/pdf/2407.07612'}
 - {venue: 'Preprint', 
   year: '',
   authors: "Ziheng Chen, Jia Wang, Jun Zhuang, Abbavaram Gowtham Reddy, Fabrizio Silvestri, Jin Huang, Kaushiki Nag, kun Kuang, Xin Ning, Gabriele Tolomei",
