@@ -1,7 +1,7 @@
 index:
 - {venue: 'ICML', 
   year: '2025',
-  authors: "Aniket Vashishtha, Abhinav Kumar, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian, Amit Sharma",
+  authors: "Aniket Vashishtha, Abhinav Kumar, Atharva Pandey, Abbavaram Gowtham Reddy, Kabir Ahuja, Vineeth N Balasubramanian, Amit Sharma",
   title: 'Teaching Transformers Causal Reasoning through Axiomatic Training',
   url: 'https://arxiv.org/pdf/2407.07612'}
 - {venue: 'ICLR', 
