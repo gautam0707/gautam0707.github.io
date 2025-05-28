@@ -1,4 +1,9 @@
 index:
+- {venue: 'Preprint', 
+  year: '2025',
+  authors: "Abbavaram Gowtham Reddy, Celia Rubio-Madrigal, Rebekka Burkholz, Krikamol Muandet",
+  title: 'When Shift Happens - Confounding Is to Blame',
+  url: 'https://arxiv.org/pdf/2505.21422'}
 - {venue: 'ICML', 
   year: '2025',
   authors: "Aniket Vashishtha, Abhinav Kumar, Atharva Pandey, Abbavaram Gowtham Reddy, Kabir Ahuja, Vineeth N Balasubramanian, Amit Sharma",
