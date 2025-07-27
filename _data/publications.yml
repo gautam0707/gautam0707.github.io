@@ -4,6 +4,11 @@ index:
   authors: "Abbavaram Gowtham Reddy, Celia Rubio-Madrigal, Rebekka Burkholz, Krikamol Muandet",
   title: 'When Shift Happens - Confounding Is to Blame',
   url: 'https://arxiv.org/pdf/2505.21422'}
+- {venue: 'TMLR', 
+  year: '2025',
+  authors: "Hari Chandana Kuchibhotla, Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
+  title: 'Efficient Vocabulary-Free Fine-Grained Visual Recognition in the Age of Multimodal LLMs',
+  url: 'https://openreview.net/pdf?id=FvA0UMw9X2'}
 - {venue: 'ICML', 
   year: '2025',
   authors: "Aniket Vashishtha, Abhinav Kumar, Atharva Pandey, Abbavaram Gowtham Reddy, Kabir Ahuja, Vineeth N Balasubramanian, Amit Sharma",
@@ -24,11 +29,6 @@ index:
   authors: "Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
   title: 'Detecting and Measuring Confounding Using Causal Mechanism Shifts',
   url: 'https://arxiv.org/pdf/2409.17840'}
-- {venue: 'NeurIPS Workshop on Adaptive Foundation Models', 
-  year: '2024',
-  authors: "Hari Chandana Kuchibhotla, Abbavaram Gowtham Reddy, Sai Srinivas Kancheti, Vineeth N Balasubramanian",
-  title: 'Fine-Grained Visual Recognition in the Age of Multimodal LLMs',
-  url: 'https://openreview.net/pdf?id=iLZphHYeBK'}
 - {venue: 'AAAI', 
   year: '2024',
   authors: "Abbavaram Gowtham Reddy, Saketh Bachu, Harsharaj Pathak, Benin L Godfrey, Vineeth N Balasubramanian, Varshaneya V, Sathya Narayanan Kar",
