@@ -1,9 +1,14 @@
 index:
-- {venue: 'Preprint', 
-  year: '2025',
+- {venue: 'ICLR', 
+  year: '2026',
+  authors: "Abbavaram Gowtham Reddy, Rajeev Verma, Celia Rubio-Madrigal, Krikamol Muandet, Rebekka Burkholz",
+  title: 'Predictive Sufficiency for OOD Generalization via Gradient Boosting',
+  url: 'https://openreview.net/pdf?id=1mQT8PXIy8'}
+- {venue: 'ICLR', 
+  year: '2026',
   authors: "Abbavaram Gowtham Reddy, Celia Rubio-Madrigal, Rebekka Burkholz, Krikamol Muandet",
   title: 'When Shift Happens - Confounding Is to Blame',
-  url: 'https://arxiv.org/pdf/2505.21422'}
+  url: 'https://openreview.net/pdf?id=sFjxg8cyJS'}
 - {venue: 'TMLR', 
   year: '2025',
   authors: "Hari Chandana Kuchibhotla, Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
