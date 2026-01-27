@@ -2,7 +2,7 @@ index:
 - {venue: 'ICLR', 
   year: '2026',
   authors: "Abbavaram Gowtham Reddy, Rajeev Verma, Celia Rubio-Madrigal, Krikamol Muandet, Rebekka Burkholz",
-  title: 'Predictive Sufficiency for OOD Generalization via Gradient Boosting',
+  title: 'Boosting for Predictive Sufficiency',
   url: 'https://openreview.net/pdf?id=1mQT8PXIy8'}
 - {venue: 'ICLR', 
   year: '2026',
