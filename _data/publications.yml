@@ -1,4 +1,9 @@
 index:
+- {venue: 'ICML', 
+  year: '2026',
+  authors: "Kiet Q. H. Vo, Abbavaram Gowtham Reddy, Julian Rodemann, Siu Lun Chau, Krikamol Muandet",
+  title: 'Off-Policy Evaluation with Strategic Agents via Local Disclosure',
+  url: ''}
 - {venue: 'ICLR', 
   year: '2026',
   authors: "Abbavaram Gowtham Reddy, Rajeev Verma, Celia Rubio-Madrigal, Krikamol Muandet, Rebekka Burkholz",
@@ -9,11 +14,6 @@ index:
   authors: "Abbavaram Gowtham Reddy, Celia Rubio-Madrigal, Rebekka Burkholz, Krikamol Muandet",
   title: 'When Shift Happens - Confounding Is to Blame',
   url: 'https://openreview.net/pdf?id=sFjxg8cyJS'}
-- {venue: 'ICML', 
-  year: '2026',
-  authors: "Kiet Q. H. Vo, Abbavaram Gowtham Reddy, Julian Rodemann, Siu Lun Chau, Krikamol Muandet",
-  title: 'Off-Policy Evaluation with Strategic Agents via Local Disclosure',
-  url: ''}
 - {venue: 'TMLR', 
   year: '2025',
   authors: "Hari Chandana Kuchibhotla, Sai Srinivas Kancheti, Abbavaram Gowtham Reddy, Vineeth N Balasubramanian",
