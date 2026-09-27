@@ -1,9 +1,14 @@
 index:
+- {venue: 'NeurIPS',
+  year: '2026 (To Appear)',
+  authors: "Amine M'Charrak, Abbavaram Gowtham Reddy, Thomas Lukasiewicz, Michael M. Bronstein, Krikamol Muandet",
+  title: 'Fiedler-Regularized Causal Discovery for Sparse Connected DAGs',
+  url:''}
 - {venue: 'ICML', 
   year: '2026',
   authors: "Kiet Q. H. Vo, Abbavaram Gowtham Reddy, Julian Rodemann, Siu Lun Chau, Krikamol Muandet",
   title: 'Off-Policy Evaluation with Strategic Agents via Local Disclosure',
-  url: ''}
+  url: 'https://openreview.net/pdf?id=IG956mtgzL'}
 - {venue: 'ICLR', 
   year: '2026',
   authors: "Abbavaram Gowtham Reddy, Rajeev Verma, Celia Rubio-Madrigal, Krikamol Muandet, Rebekka Burkholz",
